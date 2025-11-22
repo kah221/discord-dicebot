@@ -176,4 +176,4 @@ user_id,exec_time,roll,max,result,judge
 ## 【更新ログ】
 - 240627_2348~  初着手，/dice 作成
 - 251025_2104~  /4arith, /help-dicebot 追加
-- 251118_0115~ /mydata 追加，データ蓄積開始(/dice)，演出追加
+- 251118_0115~ /mydata追加，データ蓄積開始(/dice)，演出追加
